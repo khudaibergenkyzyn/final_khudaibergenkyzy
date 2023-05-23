@@ -1,0 +1,4 @@
+/Users/tmrbk/AndroidStudioProjects/final/app/src/main/java/com/example/afinal/presentation/di/NetworkModule.kt
+/Users/tmrbk/AndroidStudioProjects/final/app/src/main/java/com/example/afinal/presentation/di/RepositoryModule.kt
+/Users/tmrbk/AndroidStudioProjects/final/app/src/main/java/com/example/afinal/presentation/di/UseCaseModule.kt
+/Users/tmrbk/AndroidStudioProjects/final/app/src/main/java/com/example/afinal/presentation/activity/MainActivity.kt
